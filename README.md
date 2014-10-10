@@ -27,3 +27,5 @@ git remote remove origin
 git remote add origin https://github.com/atulgolhar/rampup_class_one.git
 git push -u origin master
 
+open sublime
+puts "hello world"
